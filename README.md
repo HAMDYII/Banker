@@ -4,7 +4,7 @@ SimpleBank is a C++ project that embodies the principles of clean code, algorith
 
 # Technologies & Design Approach
 
-User registration with username and password, login system with authentication checks,
+Includes a registration system with username and password, login system with authentication checks,
 CRUD Implementation through: Allowing users to create new accounts, Retrieve and display account information, Enable users to modify their account details, Provide an option to close an account,
 Implemented efficient algorithms to speed up the search process,
 Utilize external libraries for specific functionalities.
