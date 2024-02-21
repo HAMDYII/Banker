@@ -1,6 +1,6 @@
 # Banker 
 
-SimpleBank is a C++ project that embodies the principles of clean code, algorithmic efficiency, and robust data structures in the context of a basic banking system
+Banker is a C++ project that embodies the principles of clean code, algorithmic efficiency, and robust data structures in the context of a basic banking system
 
 # Technologies & Design Approach
 
